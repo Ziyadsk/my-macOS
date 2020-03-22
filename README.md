@@ -2,11 +2,10 @@
 > my personal macOS experience 
 
 ## Browsers
-- [Google chrome]()
+- ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
 	- [Extensions]()
 	<br/>
-	<br/>
-	
+
 	| name | description |
 	-----------|------------
 	| [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) | Dark mode for all websites
@@ -23,56 +22,92 @@
 	- [Theme]() 
 		- [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel?hl=en)
 		
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- #### [Firefox](https://www.mozilla.org/en-US/firefox/)
 
 ## Dev
 
 ### [Monospace fonts]()
 
-- [Jetbrains mono]()
-- [SF mono]()
-- [Fira Code]()
+- [Jetbrains mono](https://www.jetbrains.com/lp/mono/)
+- [SF mono](https://developer.apple.com/fonts/)
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 
 ### Terminal emulators
 
-- [iterm2]()
+- [iterm2](https://www.iterm2.com/)
 	- [colors]()
 
-- [alacritty]()
-
+- [alacritty](https://github.com/alacritty/alacritty)
+---
 - [Shells]()
-	- bash 	
+	- bash
 	- [zsh](https://www.zsh.org/)
-	  - theme : [robbyrussel]()
+	  - theme : [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell)
 
 	  - plugins : [git]() & [zsh-autocompletion]()
 
 
-### Commnad line apps
+### Commnad line programs
+
 name | description 
 -------| ---------
 [exa](https://github.com/ogham/exa) | a modern  'ls'  alternative
 [bat](https://github.com/sharkdp/bat) | a modern  'cat'  alternative
+[git](https://git-scm.com/) | version control system
 [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) | a framework the for the zsh shell
 [ranger](https://github.com/ranger/ranger) | command line file manager
 [tmux](https://github.com/tmux/tmux) | terminal multiplexer
 [VIM](https://www.vim.org/download.php) | The text editor
 
 ### Programing languages:
+
 - [Node (Javascript)](https://nodejs.org/en/)
 - [Go](https://golang.org/) 
 - [python](https://www.python.org/)
 - [Dart](https://dart.dev/)
 
 [Package managers]()
+
 - [npm]() (comes with node)
 - [pip](https://pip.pypa.io/en/stable/installing/)
 
 ### Text editors
+
 - [VScode](https://code.visualstudio.com/) 
-	- extensions
-	- theme
+	- [Extensions]()
+
+	| name  | description|
+	|-------|------------
+	| [Bracket pair colorizer]() | colorize matching brackets
+	| [ESlint]() | JS linter
+	| [Github markdown preview]() | Github markdown previwer
+	| [markdownlint]() | markdown linting and style checking
+	| [Import Cost]() | Display import size in the editor
+	| [Preview on Web Server]() | Preview a web page on a web server
+	| [Rainbow CSV]() | Display CSV in a more distinct way
+	| [Path Autocomplete] () | autocomplete filesystem paths
+	##### language support
+
+	| name  | description|
+	|-------|------------
+	| [PHP Intelephense]() | PHP code intelligence for visual studio code
+	| [PHP intellisense]() | advanced autocompletion and refactoring support for php
+	| [C/C++]() | C/C++ intellisense
+	| [Dart]() | Dart language support
+	| [Go]() | Go language support
+	| [Language support for Java(TM) by redhat]() | Java linting, intelisense , formating , etc.
+	| [Python]() | pyhton language support
+	| [TROFF Syntax]() | TROFF Syntax highlighter
+
+	- [themes]()
+		- [Tokyo night]()
+		- [Palenight Theme]()
+		- [Ayu]()
+		- [Fix seti monokai]()
+
+	- [Icon theme]()
+		- [VSCode Great Icons]()
 - [Sublime Text 3](https://www.sublimetext.com/3) 
 - [Xcode](https://developer.apple.com/xcode/)
 
@@ -91,3 +126,11 @@ ntfs for mac | let you read and write external hard drive on a mac
 [vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made 
 
 ## Links to the configs files
+
+| | |
+------|-----
+| iterm | [itermcolors](configs/ziyad.itermcolors)
+| vscde | [vscode settings](configs/settings.json)
+| zsh | [zshrc](configs/.zshrc)
+| tmux | [tmuxrc]()
+| vim  | [vimrc]()
