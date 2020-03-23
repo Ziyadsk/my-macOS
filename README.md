@@ -3,7 +3,10 @@
 ## Table of contents
 
 ## Screenshots
-
+![ranger](screenshots/ranger.png)
+![bat-vim-exa](screenshots/bat-vim-exa.png)
+![chrome](screenshots/chrome.png)
+![vtop-cmus-fzf](screenshots/vtop-cmus-fzf.png)
 ## Browsers
 - ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
 	- [Extensions]()
@@ -136,7 +139,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 | | |
 ------|-----
 | iterm | [itermcolors](configs/ziyad.itermcolors)
-| vscde | [vscode settings](configs/settings.json)
+| vscode | [vscode settings](configs/settings.json)
 | zsh | [zshrc](configs/.zshrc)
 | tmux | [tmux.conf](configs/.tmux.conf)
 | vim  | [vimrc](configs/.vimrc)
