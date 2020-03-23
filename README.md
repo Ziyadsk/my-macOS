@@ -1,6 +1,19 @@
 # my macOS
 > my personal macOS experience 
 ## Table of contents
+- ### [Browsers](#browsers)
+	- [Google chrome](#google-chrome)
+	- [Firefox](#firefox)
+- ### [Dev](#dev)
+	- [Monospace fonts](#monospace-fonts)
+	- [Terminal emulators](#terminals)
+	- [Command line programs](#command-line-programs)
+	- [Programming languages](#programming-languages)
+	- [Text editors](#text-editor)
+- #### [Wallpapers](#wallpapers)
+- #### [Graphical mac apps](#gui-apps)
+- #### [Configuration files](#links)
+
 
 ## Screenshots
 #### Ranger
@@ -37,11 +50,14 @@
 
 	- [Theme]() 
 		- [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel?hl=en)
-		
+
+<a name="firefox"></a>
 - #### [Firefox](https://www.mozilla.org/en-US/firefox/)
 
+<a name="dev"></a>
 ## Dev
 
+<a name="monospace-fonts"></a>
 ### [Monospace fonts]()
 
 - [Jetbrains mono](https://www.jetbrains.com/lp/mono/)
@@ -49,20 +65,17 @@
 - [SF mono](https://developer.apple.com/fonts/)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
-
+<a name="terminals"></a>
 ### Terminal emulators
 
 - [iterm2](https://www.iterm2.com/)
 - [alacritty](https://github.com/alacritty/alacritty)
-<br/>
 - [Shells]()
 	- bash
 	- [zsh](https://www.zsh.org/)
-	  - theme : [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell)
-
+		- theme : [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell)
 	  - plugins : [git]() & [zsh-autocompletion]()
-
-
+<a name="command-line-programs"></a>
 ### Commnad line programs
 
 name | description 
@@ -78,10 +91,11 @@ name | description
 [vtop](https://github.com/MrRio/vtop)| activity montitor
 [VIM](https://www.vim.org/download.php) | The text editor
 
+<a name="programing-languages"></a>
 ### Programing languages:
 
 - [Node (Javascript)](https://nodejs.org/en/)
-- [Go](https://golang.org/) 
+- [Go](https://golang.org/)
 - [python](https://www.python.org/)
 - [Dart](https://dart.dev/)
 
@@ -90,9 +104,10 @@ name | description
 - [npm]() (comes with node)
 - [pip](https://pip.pypa.io/en/stable/installing/)
 
+<a name="text-editors"></a>
 ### Text editors
 
-- [VScode](https://code.visualstudio.com/) 
+- [VScode](https://code.visualstudio.com/)
 	- [Extensions]()
 
 	| name  | description|
@@ -129,13 +144,14 @@ name | description
 		- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [Sublime Text 3](https://www.sublimetext.com/3) 
 - [Xcode](https://developer.apple.com/xcode/)
-
+<a name="wallpapers"></a>
 ### Wallpapers
 - [300+ on imgur](https://imgur.com/a/8we4Uxj) 
 
+<a name="gui-apps"></a>
 ## Other apps
 
-| name | description 
+| name | description
 -------|------------
 ntfs for mac | let you read and write external hard drive on a mac
 [utorrent](https://www.utorrent.com/) | my torrent client 
@@ -144,6 +160,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 [decompressor](https://apps.apple.com/us/app/decompressor/id1033480833?mt=12) | a great compressor and decompressor app
 [vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made
 
+<a name="#links"></a>
 ## Links to the configs files
 
 | | |
