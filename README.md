@@ -3,10 +3,17 @@
 ## Table of contents
 
 ## Screenshots
+#### Ranger
 ![ranger](screenshots/ranger.png)
+#### bat, vim and exa 
 ![bat-vim-exa](screenshots/bat-vim-exa.png)
+#### chrome browser
 ![chrome](screenshots/chrome.png)
+#### vtop, cmus and fzf
 ![vtop-cmus-fzf](screenshots/vtop-cmus-fzf.png)
+
+#### tmux minimal status bar 
+![tmux-minimal-bar](screenshots/tmux-minimal-bar.png)
 ## Browsers
 - ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
 	- [Extensions]()
