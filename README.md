@@ -32,6 +32,7 @@
 ### [Monospace fonts]()
 
 - [Jetbrains mono](https://www.jetbrains.com/lp/mono/)
+	* [Nerdfont version](https://www.nerdfonts.com/) (for extra glyphs for tmux)
 - [SF mono](https://developer.apple.com/fonts/)
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
@@ -57,8 +58,11 @@ name | description
 [bat](https://github.com/sharkdp/bat) | a modern  'cat'  alternative
 [git](https://git-scm.com/) | version control system
 [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) | a framework the for the zsh shell
+[fzf](https://github.com/junegunn/fzf)| fuzzy file finder
 [ranger](https://github.com/ranger/ranger) | command line file manager
 [tmux](https://github.com/tmux/tmux) | terminal multiplexer
+[mpv](https://github.com/tmux/tmux) | video player
+[vtop](https://github.com/MrRio/vtop)| activity montitor
 [VIM](https://www.vim.org/download.php) | The text editor
 
 ### Programing languages:
@@ -82,7 +86,7 @@ name | description
 	|-------|------------
 	| [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorize matching brackets
 	| [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | JS linter
-	| [Github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) | Github markdown previwer
+	| [Github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) | Github markdown previewer
 	| [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | markdown linting and style checking
 	| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | Display import size in the editor
 	| [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | Preview a web page on a web server
@@ -103,18 +107,18 @@ name | description
 	| [TROFF Syntax](https://marketplace.visualstudio.com/items?itemName=ban.troff) | TROFF Syntax highlighter
 
 	- [Themes]()
-	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) (main)
 	  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 	  - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 	  - [Fix seti monokai](https://marketplace.visualstudio.com/items?itemName=flx86.flx-seti-monokai)
 
 	- [Icon theme]()
-		- [VSCode Great Icons]()
+		- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [Sublime Text 3](https://www.sublimetext.com/3) 
 - [Xcode](https://developer.apple.com/xcode/)
 
 ### Wallpapers
-- [300+ on imgur]() 
+- [300+ on imgur](https://imgur.com/a/8we4Uxj) 
 
 ## Other apps
 
@@ -125,7 +129,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 [appCleaner](https://freemacsoft.net/appcleaner/) | Help you unistall apps + their dependecies and hidden files
 [insomniaX](https://download.cnet.com/InsomniaX/3000-2094_4-97713.html) | controls your mac sleep cycle
 [decompressor](https://apps.apple.com/us/app/decompressor/id1033480833?mt=12) | a great compressor and decompressor app
-[vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made 
+[vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made
 
 ## Links to the configs files
 
@@ -134,5 +138,5 @@ ntfs for mac | let you read and write external hard drive on a mac
 | iterm | [itermcolors](configs/ziyad.itermcolors)
 | vscde | [vscode settings](configs/settings.json)
 | zsh | [zshrc](configs/.zshrc)
-| tmux | [tmuxrc]()
-| vim  | [vimrc]()
+| tmux | [tmux.conf](configs/.tmux.conf)
+| vim  | [vimrc](configs/.vimrc)
