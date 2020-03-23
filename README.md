@@ -9,6 +9,9 @@
 ![bat-vim-exa](screenshots/bat-vim-exa.png)
 #### chrome browser
 ![chrome](screenshots/chrome.png)
+
+#### vscode 
+![vscode](screenshots/vscode.png)
 #### vtop, cmus and fzf
 ![vtop-cmus-fzf](screenshots/vtop-cmus-fzf.png)
 
