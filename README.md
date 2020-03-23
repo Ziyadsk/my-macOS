@@ -34,6 +34,7 @@
 <a name="browser"></a>
 ## Browsers
 <a name="google-chrome">
+
 - ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
 	- [Extensions]()
 	<br/>
