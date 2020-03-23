@@ -1,5 +1,8 @@
 # my macOS
 > my personal macOS experience 
+## Table of contents
+
+## Screenshots
 
 ## Browsers
 - ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
@@ -36,10 +39,8 @@
 ### Terminal emulators
 
 - [iterm2](https://www.iterm2.com/)
-	- [colors]()
-
 - [alacritty](https://github.com/alacritty/alacritty)
----
+<br/>
 - [Shells]()
 	- bash
 	- [zsh](https://www.zsh.org/)
@@ -79,32 +80,33 @@ name | description
 
 	| name  | description|
 	|-------|------------
-	| [Bracket pair colorizer]() | colorize matching brackets
-	| [ESlint]() | JS linter
-	| [Github markdown preview]() | Github markdown previwer
-	| [markdownlint]() | markdown linting and style checking
-	| [Import Cost]() | Display import size in the editor
-	| [Preview on Web Server]() | Preview a web page on a web server
-	| [Rainbow CSV]() | Display CSV in a more distinct way
-	| [Path Autocomplete] () | autocomplete filesystem paths
-	##### language support
+	| [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorize matching brackets
+	| [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | JS linter
+	| [Github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) | Github markdown previwer
+	| [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | markdown linting and style checking
+	| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | Display import size in the editor
+	| [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | Preview a web page on a web server
+	| [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Display CSV in a more distinct way
+	| [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | autocomplete filesystem paths
+
+	##### Language support
 
 	| name  | description|
 	|-------|------------
-	| [PHP Intelephense]() | PHP code intelligence for visual studio code
-	| [PHP intellisense]() | advanced autocompletion and refactoring support for php
-	| [C/C++]() | C/C++ intellisense
-	| [Dart]() | Dart language support
-	| [Go]() | Go language support
-	| [Language support for Java(TM) by redhat]() | Java linting, intelisense , formating , etc.
-	| [Python]() | pyhton language support
-	| [TROFF Syntax]() | TROFF Syntax highlighter
+	| [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | PHP code intelligence for visual studio code
+	| [PHP intellisense](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | advanced autocompletion and refactoring support for php
+	| [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | C/C++ intellisense
+	| [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) | Dart language support
+	| [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) | Go language support
+	| [Language support for Java(TM) by redhat](https://marketplace.visualstudio.com/items?itemName=redhat.java) | Java linting, intelisense , formating , etc.
+	| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | pyhton language support
+	| [TROFF Syntax](https://marketplace.visualstudio.com/items?itemName=ban.troff) | TROFF Syntax highlighter
 
-	- [themes]()
-		- [Tokyo night]()
-		- [Palenight Theme]()
-		- [Ayu]()
-		- [Fix seti monokai]()
+	- [Themes]()
+	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+	  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+	  - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+	  - [Fix seti monokai](https://marketplace.visualstudio.com/items?itemName=flx86.flx-seti-monokai)
 
 	- [Icon theme]()
 		- [VSCode Great Icons]()
