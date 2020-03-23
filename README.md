@@ -1,16 +1,16 @@
 # my macOS
 > my personal macOS experience 
 ## Table of contents
-- ### [Browsers](#browsers)
+- ### [Browsers](#browser)
 	- [Google chrome](#google-chrome)
 	- [Firefox](#firefox)
-- ### [Dev](#dev)
+- ### [Dev](#developer)
 	- [Monospace fonts](#monospace-fonts)
 	- [Terminal emulators](#terminals)
 	- [Command line programs](#command-line-programs)
 	- [Programming languages](#programming-languages)
 	- [Text editors](#text-editor)
-- #### [Wallpapers](#wallpapers)
+- #### [Wallpapers](#walls)
 - #### [Graphical mac apps](#gui-apps)
 - #### [Configuration files](#links)
 
@@ -30,7 +30,10 @@
 
 #### tmux minimal status bar 
 ![tmux-minimal-bar](screenshots/tmux-minimal-bar.png)
+
+<a name="browser"></a>
 ## Browsers
+<a name="google-chrome">
 - ### [Google chrome](https://www.google.com/chrome/?/brand=CHBD&gclid=Cj0KCQjw9tbzBRDVARIsAMBplx9jDdkZRRFwzqaQwucGThj3OJTJK77Jv3Er3FoSwQlpgvffj4p4XwAaAlHjEALw_wcB&gclsrc=aw.ds)
 	- [Extensions]()
 	<br/>
@@ -54,7 +57,7 @@
 <a name="firefox"></a>
 - #### [Firefox](https://www.mozilla.org/en-US/firefox/)
 
-<a name="dev"></a>
+<a name="developer"></a>
 ## Dev
 
 <a name="monospace-fonts"></a>
@@ -144,7 +147,8 @@ name | description
 		- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [Sublime Text 3](https://www.sublimetext.com/3) 
 - [Xcode](https://developer.apple.com/xcode/)
-<a name="wallpapers"></a>
+
+<a name="walls"></a>
 ### Wallpapers
 - [300+ on imgur](https://imgur.com/a/8we4Uxj) 
 
@@ -160,7 +164,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 [decompressor](https://apps.apple.com/us/app/decompressor/id1033480833?mt=12) | a great compressor and decompressor app
 [vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made
 
-<a name="#links"></a>
+<a name="links"></a>
 ## Links to the configs files
 
 | | |
