@@ -1,14 +1,19 @@
-{   
+{ 
+
     "zenMode.centerLayout": false,
     "zenMode.fullScreen": true,
     "zenMode.hideLineNumbers": false,
     "bracketPairColorizer.showBracketsInRuler": false,
-    "editor.lineHeight": 27,
     "editor.letterSpacing": -0.3,
-    "editor.fontLigatures": true,
+    "editor.scrollbar.vertical": "hidden",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.folders.color": "#074d41",
+    "explorer.openEditors.visible": 3,
+    "editor.renderLineHighlight": "none",
     "window.zoomLevel": -1,
-    "editor.fontSize": 16,
-    
+    "editor.lineHeight": 27,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16, 
     // disabling italics
     "editor.tokenColorCustomizations": {
         
@@ -17,14 +22,14 @@
                 "scope": [
                     "comment",
                     "control.keyword.flow"
-                                ],
+                ],
                 "settings": {
                     "fontStyle": "",
                 }
             }
         ]
     },
-
+    
     "workbench.colorCustomizations": {
         "[Tokyo Night]": {
             "terminal.ansiBlack": "#006699",
@@ -32,10 +37,15 @@
             "terminal.ansiYellow": "#000"
         }
     },
-    
+
     "terminal.integrated.fontSize": 16,
-    "workbench.editor.tabSizing": "shrink",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.editor.tabSizing":"shrink" ,
+    "workbench.editor.showTabs":true,
+    "gruvboxMaterial.darkPalette": "material",
+    "gruvboxMaterial.darkWorkbench": "material",
+    "gruvboxMaterial.darkSelection": "grey",
+    
+    "gruvboxMaterial.darkContrast": "soft",
     
     "terminal.integrated.shell.osx": "zsh",
     "bracketPairColorizer.showHorizontalScopeLine": false,
@@ -48,7 +58,7 @@
     "python.jediEnabled": false,
     "editor.wordWrap": "on",
     "[python]": {
-       
+        
     },
     "files.associations": {
         "*.py": "python",
@@ -60,7 +70,18 @@
     },
     "C_Cpp.updateChannel": "Insiders",
     "editor.cursorBlinking": "smooth",
-    "workbench.colorTheme": "Tokyo Night",
-    "workbench.activityBar.visible": false
-    
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.acceptSuggestionOnEnter": "smart",
+    "java.semanticHighlighting.enabled": true,
+    "workbench.colorTheme": "Boxy Solarized Dark",
+    "dart.flutterSdkPath": "/Users/ziyad/workspace/flutter",
+    "dart.previewFlutterUiGuides": true,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+    ],
+    "debug.console.fontSize": 15,
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true
+
 }   

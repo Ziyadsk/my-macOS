@@ -68,8 +68,10 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
-plugins=(zsh-autosuggestions)
+plugins=(
+	git
+	zsh-autosuggestions
+)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -97,6 +99,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias e="exa --group-directories-first"
+alias el="exa -l --icons --group-directories-first"
+alias t="tmux"
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/ziyad/.scc/scc.py"
@@ -106,3 +111,7 @@ alias scc='/Users/ziyad/.scc/scc.py'
 export PATH="/usr/local/sbin:$PATH"
 export PATH="/usr/local/opt/php@7.2/bin:$PATH"
 export PATH="/usr/local/opt/php@7.2/sbin:$PATH"
+export PATH="/usr/local/lib/python3.7/site-packages:$PATH"
+export PATH="$HOME/workspace/flutter/bin:$PATH"
+
+PYTHONPATH=$PYTHONPATH:/usr/local/Cellar/python@3.8/3.8.2/bin/python3.8
