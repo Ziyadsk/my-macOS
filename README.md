@@ -124,6 +124,9 @@ name | description
 	| [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | Preview a web page on a web server
 	| [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Display CSV in a more distinct way
 	| [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | autocomplete filesystem paths
+	| [Better Comments](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | Better comments
+	| [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | displays a clock in the status bar
+	| [Scope Bar](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | displays scope in the status bar
 
 	##### Language support
 
