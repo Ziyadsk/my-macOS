@@ -161,6 +161,7 @@ name | description
 
 | name | description
 -------|------------
+[Alfred](https://www.alfredapp.com/) | a better spotlight 
 ntfs for mac | let you read and write external hard drive on a mac
 [utorrent](https://www.utorrent.com/) | my torrent client 
 [appCleaner](https://freemacsoft.net/appcleaner/) | Help you unistall apps + their dependecies and hidden files
