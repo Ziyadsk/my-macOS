@@ -124,9 +124,11 @@ name | description
 	| [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | Preview a web page on a web server
 	| [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Display CSV in a more distinct way
 	| [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | autocomplete filesystem paths
-	| [Better Comments](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | Better comments
-	| [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | displays a clock in the status bar
-	| [Scope Bar](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | displays scope in the status bar
+	| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Better comments
+	| [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=Compulim.vscode-clock) | displays a clock in the status bar
+	| [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar) | displays scope in the status bar
+	| [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim emulation for visual studio code
+
 
 	##### Language support
 
@@ -140,13 +142,21 @@ name | description
 	| [Language support for Java(TM) by redhat](https://marketplace.visualstudio.com/items?itemName=redhat.java) | Java linting, intelisense , formating , etc.
 	| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | pyhton language support
 	| [TROFF Syntax](https://marketplace.visualstudio.com/items?itemName=ban.troff) | TROFF Syntax highlighter
+	
+	##### Frameworks support
+
+	|name|description|
+	|-----|------------------
+	| [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | React support |
+	|[Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | Flutter support  |
 
 	- [Themes]()
-	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) (main)
-	  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
-	  - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-	  - [Fix seti monokai](https://marketplace.visualstudio.com/items?itemName=flx86.flx-seti-monokai)
+	  - [Arc+](https://marketplace.visualstudio.com/items?itemName=ph-hawkins.arc-plus)
+	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+	  - [Boxy Oceanic](https://marketplace.visualstudio.com/items?itemName=trongthanh.theme-boxythemekit)
 
+	  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+	
 	- [Icon theme]()
 		- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [Sublime Text 3](https://www.sublimetext.com/3) 
