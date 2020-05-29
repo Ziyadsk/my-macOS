@@ -42,7 +42,7 @@
 	| name | description |
 	-----------|------------
 	| [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) | Dark mode for all websites
-	| [tabliss](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp?hl=en | A beautiful new tab 
+	| [tabliss](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp?hl=en) | A beautiful new tab 
 	| [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in entirety and reliably
 	| [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe) | makes a better JSON viewing
 	| [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) | ad blocker
@@ -54,10 +54,18 @@
 
 	- [Theme]() 
 		- [Material Incognito Dark Theme](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel?hl=en)
+		
 
 <a name="firefox"></a>
-- #### [Firefox](https://www.mozilla.org/en-US/firefox/)
+- ### [Firefox](https://www.mozilla.org/en-US/firefox/)
+	- [Extensions]()
 
+	|name | description|
+	|------|----|
+	| [tabliss]() |A beautiful new tab |
+	|[Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)| Lets you add a custom css to a website |
+	- [Theme]() 
+		- [Arc theme](https://addons.mozilla.org/fr/firefox/addon/arc-dark-theme-we/?src=search)
 <a name="developer"></a>
 ## Dev
 
@@ -68,7 +76,7 @@
 	* [Nerdfont version](https://www.nerdfonts.com/) (for extra glyphs for tmux)
 - [SF mono](https://developer.apple.com/fonts/)
 - [Fira Code](https://github.com/tonsky/FiraCode)
-
+- [Victor mono](https://www.nerdfonts.com/font-downloads)
 <a name="terminals"></a>
 ### Terminal emulators
 
@@ -154,7 +162,6 @@ name | description
 	  - [Arc+](https://marketplace.visualstudio.com/items?itemName=ph-hawkins.arc-plus)
 	  - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 	  - [Boxy Oceanic](https://marketplace.visualstudio.com/items?itemName=trongthanh.theme-boxythemekit)
-
 	  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 	
 	- [Icon theme]()
