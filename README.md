@@ -184,7 +184,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 [appCleaner](https://freemacsoft.net/appcleaner/) | Help you unistall apps + their dependecies and hidden files
 [insomniaX](https://download.cnet.com/InsomniaX/3000-2094_4-97713.html) | controls your mac sleep cycle
 [decompressor](https://apps.apple.com/us/app/decompressor/id1033480833?mt=12) | a great compressor and decompressor app
-[vlc](https://www.videolan.org/vlc/index.html) | the greatest video player ever made
+[IINA](https://iina.io/) | the best video player for macOS
 
 <a name="links"></a>
 ## Links to the configs files
