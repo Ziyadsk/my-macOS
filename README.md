@@ -9,7 +9,7 @@
 	- [Terminal emulators](#terminals)
 	- [Command line programs](#command-line-programs)
 	- [Programming languages](#programming-languages)
-	- [Text editors](#text-editor)
+	- [Text editors](#text-editors)
 - #### [Wallpapers](#walls)
 - #### [Graphical mac apps](#gui-apps)
 - #### [Configuration files](#links)
@@ -87,8 +87,9 @@
 	- [zsh](https://www.zsh.org/)
 		- theme : [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell)
 	  - plugins : [git]() & [zsh-autocompletion]()
-<a name="command-line-programs"></a>
-### Commnad line programs
+
+<a id="command-line-programs"></a>
+### Command line programs
 
 name | description 
 -------| ---------
@@ -123,7 +124,8 @@ name | description
 	- [Extensions]()
 
 	| name  | description|
-	|-------|------------
+	|-------|------------|
+	| [Advanced new file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)| Create files anywhere in your workspace from the keyboard
 	| [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorize matching brackets
 	| [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | JS linter
 	| [Github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) | Github markdown previewer
@@ -190,6 +192,7 @@ ntfs for mac | let you read and write external hard drive on a mac
 [macSvg](https://macsvg.org/)| A greate svg creation tool
 [Rectangle](https://rectangleapp.com/) | window snapping tool
 [utorrent](https://www.utorrent.com/) | my torrent client 
+
 <a name="links"></a>
 ## Links to the configs files
 
