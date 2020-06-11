@@ -128,6 +128,7 @@ name | description
 	| [Advanced new file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)| Create files anywhere in your workspace from the keyboard
 	| [Bracket pair colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | colorize matching brackets
 	| [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | JS linter
+	| [File size](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size)|Show the current text file size in the status bar|
 	| [Github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) | Github markdown previewer
 	| [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | markdown linting and style checking
 	| [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | Display import size in the editor
