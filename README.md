@@ -185,6 +185,8 @@ name | description
 ntfs for mac | let you read and write external hard drive on a mac
 [appCleaner](https://freemacsoft.net/appcleaner/) | Help you unistall apps + their dependecies and hidden files
 [CheatSheet](https://mediaatelier.com/CheatSheet/) | show keyboards shortcuts for any applications
+[Clipy](https://github.com/Clipy/Clipy)| clipboard manager
+[Ticktick](https://ticktick.com/?language=en_US) | Todos and reminders
 [decompressor](https://apps.apple.com/us/app/decompressor/id1033480833?mt=12) | a great compressor and decompressor app
 [Gray](https://github.com/zenangst/Gray/releases/) | Controls dark/light mode for every application .
 [insomniaX](https://download.cnet.com/InsomniaX/3000-2094_4-97713.html) | controls your mac sleep cycle
