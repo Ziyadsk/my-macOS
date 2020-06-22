@@ -137,6 +137,7 @@ name | description
 	| [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | Preview a web page on a web server
 	| [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) | Display CSV in a more distinct way
 	| [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) | autocomplete filesystem paths
+	| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)| Code formatter |
 	| [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | Better comments
 	| [Clock in status bar](https://marketplace.visualstudio.com/items?itemName=Compulim.vscode-clock) | displays a clock in the status bar
 	| [Scope Bar](https://marketplace.visualstudio.com/items?itemName=amos402.scope-bar) | displays scope in the status bar
@@ -179,7 +180,7 @@ name | description
 - [300+ on imgur](https://imgur.com/a/8we4Uxj) 
 
 <a name="gui-apps"></a>
-## Other apps
+## Gui apps
 
 | name | description
 -------|------------
