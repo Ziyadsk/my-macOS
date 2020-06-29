@@ -1,87 +1,89 @@
-{ 
-
-    "zenMode.centerLayout": false,
-    "zenMode.fullScreen": true,
-    "zenMode.hideLineNumbers": false,
-    "bracketPairColorizer.showBracketsInRuler": false,
-    "editor.letterSpacing": -0.3,
-    "editor.scrollbar.vertical": "hidden",
-    "material-icon-theme.folders.theme": "specific",
-    "material-icon-theme.folders.color": "#074d41",
-    "explorer.openEditors.visible": 3,
-    "editor.renderLineHighlight": "none",
-    "window.zoomLevel": -1,
-    "editor.lineHeight": 27,
-    "editor.fontLigatures": true,
-    "editor.fontSize": 16, 
-    // disabling italics
-    "editor.tokenColorCustomizations": {
-        
-        "textMateRules": [
-            { 
-                "scope": [
-                    "comment",
-                    "control.keyword.flow"
-                ],
-                "settings": {
-                    "fontStyle": "",
-                }
-            }
-        ]
-    },
-    
-    "workbench.colorCustomizations": {
-        "[Tokyo Night]": {
-            "terminal.ansiBlack": "#006699",
-            "terminal.ansiBrightBlack": "#FFFFFF",
-            "terminal.ansiYellow": "#000"
+{
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": true,
+  "zenMode.hideLineNumbers": false,
+  "bracketPairColorizer.showBracketsInRuler": false,
+  "editor.scrollbar.vertical": "hidden",
+  "terminal.integrated.rendererType": "dom",
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.folders.color": "#074d41",
+  "explorer.openEditors.visible": 3,
+  "editor.renderLineHighlight": "none",
+  "window.zoomLevel": -1,
+  "editor.lineHeight": 30,
+  "material-icon-theme.activeIconPack": "react",
+  "editor.fontLigatures": "true",
+  "editor.fontSize": 16,
+  // disabling italics
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "control.keyword.flow"],
+        "settings": {
+          "fontStyle": ""
         }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "[Tokyo Night]": {
+      "terminal.ansiBlack": "#006699",
+      "terminal.ansiBrightBlack": "#FFFFFF",
+      "terminal.ansiYellow": "#000"
     },
-
-    "terminal.integrated.fontSize": 16,
-    "workbench.editor.tabSizing":"shrink" ,
-    "workbench.editor.showTabs":true,
-    "gruvboxMaterial.darkPalette": "material",
-    "gruvboxMaterial.darkWorkbench": "material",
-    "gruvboxMaterial.darkSelection": "grey",
-    
-    "gruvboxMaterial.darkContrast": "soft",
-    
-    "terminal.integrated.shell.osx": "zsh",
-    "bracketPairColorizer.showHorizontalScopeLine": false,
-    "bracketPairColorizer.showVerticalScopeLine": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.fontFamily": "jetbrains mono",
-    "terminal.integrated.fontWeight": "100",
-    "python.jediEnabled": false,
-    "editor.wordWrap": "on",
-    "[python]": {
-        
-    },
-    "files.associations": {
-        "*.py": "python",
-        "*.dk": "dakar"
-    },
-    "java.configuration.checkProjectSettingsExclusions": false,
-    "[php]": {
-        
-    },
-    "C_Cpp.updateChannel": "Insiders",
-    "editor.cursorBlinking": "smooth",
-    "workbench.activityBar.visible": true,
-    "workbench.iconTheme": "vscode-great-icons",
-    "editor.acceptSuggestionOnEnter": "smart",
-    "java.semanticHighlighting.enabled": true,
-    "workbench.colorTheme": "Boxy Solarized Dark",
-    "dart.flutterSdkPath": "/Users/ziyad/workspace/flutter",
-    "dart.previewFlutterUiGuides": true,
-    "bracket-pair-colorizer-2.activeScopeCSS": [
-
-    ],
-    "debug.console.fontSize": 15,
-    "dart.debugExternalLibraries": true,
-    "dart.debugSdkLibraries": true
-
-}   
+    "[Gruvbox Dark Medium]": {
+      "errorForeground": "#fb5f4d",
+      "editorError.foreground": "#00F",
+      "editorOverviewRuler.errorForeground": "#fb5f4d"
+    }
+  },
+  "terminal.integrated.fontSize": 17,
+  "workbench.editor.tabSizing": "",
+  "gruvboxMaterial.darkWorkbench": "material",
+  "gruvboxMaterial.darkSelection": "grey",
+  "gruvboxMaterial.darkContrast": "soft",
+  "terminal.integrated.shell.osx": "zsh",
+  "bracketPairColorizer.showHorizontalScopeLine": false,
+  "bracketPairColorizer.showVerticalScopeLine": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontFamily": "iosevka term",
+  "terminal.integrated.fontWeight": "100",
+  "python.jediEnabled": false,
+  "editor.wordWrap": "on",
+  "[python]": {},
+  "files.associations": {
+    "*.py": "python",
+    "*.dk": "dakar"
+  },
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "[php]": {},
+  "C_Cpp.updateChannel": "Insiders",
+  "editor.cursorBlinking": "smooth",
+  "workbench.activityBar.visible": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "java.semanticHighlighting.enabled": true,
+  "dart.flutterSdkPath": "/Users/ziyad/workspace/flutter",
+  "dart.previewFlutterUiGuides": true,
+  "bracket-pair-colorizer-2.activeScopeCSS": [],
+  "debug.console.fontSize": 15,
+  "dart.debugExternalLibraries": true,
+  "dart.debugSdkLibraries": true,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.fontFamily": "pragmatapro",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.trailingComma": "none",
+  "python.languageServer": "Microsoft",
+  "gruvboxConcoctis.useItalicFont": false,
+  "workbench.panel.defaultLocation": "right",
+  "terminal.external.osxExec": "iterm2.app",
+  "editor.minimap.renderCharacters": false,
+  "editor.fontWeight": "100",
+  "workbench.colorTheme": "Mirage (Pastel)"
+}
