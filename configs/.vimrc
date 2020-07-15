@@ -2,10 +2,12 @@
 
 " tab=2spaces
 set tabstop=2
-
+set shiftwidth=2
+set softtabstop=0 noexpandtab
+set smarttab
+set expandtab
 "no swap files
 set noswapfile
-
 "always show line numbers
 set number 
 set lazyredraw

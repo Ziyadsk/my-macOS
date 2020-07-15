@@ -13,12 +13,12 @@
   "editor.lineHeight": 30,
   "material-icon-theme.activeIconPack": "react",
   "editor.fontLigatures": "true",
-  "editor.fontSize": 16,
+  "editor.fontSize": 17,
   // disabling italics
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
-        "scope": ["comment", "control.keyword.flow"],
+        "scope": ["comment", "control.keyword.flow", "*"],
         "settings": {
           "fontStyle": ""
         }
@@ -35,6 +35,9 @@
       "errorForeground": "#fb5f4d",
       "editorError.foreground": "#00F",
       "editorOverviewRuler.errorForeground": "#fb5f4d"
+    },
+    "[Mirage (Pastel)]": {
+      "focusBorder": "#0c5485"
     }
   },
   "terminal.integrated.fontSize": 17,
@@ -72,7 +75,6 @@
   "dart.debugExternalLibraries": true,
   "dart.debugSdkLibraries": true,
   "editor.renderWhitespace": "all",
-  "terminal.integrated.fontFamily": "pragmatapro",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "[javascriptreact]": {
@@ -85,5 +87,17 @@
   "terminal.external.osxExec": "iterm2.app",
   "editor.minimap.renderCharacters": false,
   "editor.fontWeight": "100",
-  "workbench.colorTheme": "Mirage (Pastel)"
+  "prettier.disableLanguages": ["markdown", "md", "Markdown", "MD"],
+  "codeui.targetingMode": "general",
+  "materialTheme.accent": "Sky",
+  "gruvboxMaterial.colorfulSyntax": true,
+  "gruvboxMaterial.darkPalette": "original",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredHighContrastColorTheme": "Ocean",
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.fontFamily": "menlo",
+  "vim.easymotionMarkerFontFamily": "pragmata pro",
+  "scm.inputFontFamily": "monospace",
+  "terminal.integrated.fontFamily": "pragmatapro",
+  "workbench.colorTheme": "Arc+ (Dark Monochrome)"
 }
