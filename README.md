@@ -144,7 +144,8 @@
 
 ### Text editors
 
-- [VScode](https://code.visualstudio.com/) - [Extensions]()
+- [VScode](https://code.visualstudio.com/) 
+  - [Extensions]()
 
     | name  | description|
     |-------|------------|
@@ -185,13 +186,12 @@
     | [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | React support |
     |[Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) | Flutter support  |
 
-    - [Themes]()
-      - [Arc+](https://marketplace.visualstudio.com/items?itemName=ph-hawkins.arc-plus)
-      - [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
-      - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-      - [Boxy Oceanic](https://marketplace.visualstudio.com/items?itemName=trongthanh.theme-boxythemekit)
-      - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
-
+  - [Themes]()
+    - [Elegant](https://marketplace.visualstudio.com/items?itemName=ziyadsk.elegant)
+    - [Arc+](https://marketplace.visualstudio.com/items?itemName=ph-hawkins.arc-plus)
+    - [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
+    - [Tokyo night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+    - [Boxy Oceanic](https://marketplace.visualstudio.com/items?itemName=trongthanh.theme-boxythemekit)
     - [Icon theme]()
     	- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 
