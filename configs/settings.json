@@ -4,6 +4,7 @@
   "zenMode.hideLineNumbers": false,
   "bracketPairColorizer.showBracketsInRuler": false,
   "editor.scrollbar.vertical": "hidden",
+  "editor.letterSpacing": 0,
   "terminal.integrated.rendererType": "dom",
   "material-icon-theme.folders.theme": "specific",
   "material-icon-theme.folders.color": "#074d41",
@@ -14,6 +15,8 @@
   "material-icon-theme.activeIconPack": "react",
   "editor.fontLigatures": "true",
   "editor.fontSize": 17,
+  "editor.letterSpacing":-0.5,
+
   // disabling italics
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -29,7 +32,8 @@
     "[Tokyo Night]": {
       "terminal.ansiBlack": "#006699",
       "terminal.ansiBrightBlack": "#FFFFFF",
-      "terminal.ansiYellow": "#000"
+      "terminal.ansiYellow": "#000",
+      "list.hoverBackground": "#ff0000"
     },
     "[Gruvbox Dark Medium]": {
       "errorForeground": "#fb5f4d",
@@ -46,13 +50,12 @@
   "gruvboxMaterial.darkSelection": "grey",
   "gruvboxMaterial.darkContrast": "soft",
   "terminal.integrated.shell.osx": "zsh",
+
   "bracketPairColorizer.showHorizontalScopeLine": false,
   "bracketPairColorizer.showVerticalScopeLine": false,
   "workbench.startupEditor": "newUntitledFile",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "editor.fontFamily": "iosevka term",
-  "terminal.integrated.fontWeight": "100",
   "python.jediEnabled": false,
   "editor.wordWrap": "on",
   "[python]": {},
@@ -86,7 +89,6 @@
   "workbench.panel.defaultLocation": "right",
   "terminal.external.osxExec": "iterm2.app",
   "editor.minimap.renderCharacters": false,
-  "editor.fontWeight": "100",
   "prettier.disableLanguages": ["markdown", "md", "Markdown", "MD"],
   "codeui.targetingMode": "general",
   "materialTheme.accent": "Sky",
@@ -96,8 +98,31 @@
   "workbench.preferredHighContrastColorTheme": "Ocean",
   "markdown.preview.fontSize": 16,
   "markdown.preview.fontFamily": "menlo",
-  "vim.easymotionMarkerFontFamily": "pragmata pro",
-  "scm.inputFontFamily": "monospace",
-  "terminal.integrated.fontFamily": "pragmatapro",
-  "workbench.colorTheme": "Arc+ (Dark Monochrome)"
+  "scm.inputFontFamily": "ubuntu mono - bront",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.defaultInterpreterPath": "/usr/local/bin/python3",
+  "rest-client.fontSize": 17,
+  "terminal.integrated.fontFamily": "iosevka term",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "debug.console.fontFamily": "ubuntu mono - bront",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "markdown.preview.breaks": true,
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false
+  },
+  "terminal.integrated.fontWeightBold": "normal",
+
+  "stories.username": "crimson_vast",
+  "workbench.sideBar.location": "left",
+  "workbench.colorTheme": "Candle Theme",
+  "editor.fontFamily": "sf mono",
+  "editor.fontWeight": null,
+  "editor.minimap.enabled": false,
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }
 }
